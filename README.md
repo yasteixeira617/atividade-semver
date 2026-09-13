@@ -13,3 +13,7 @@ para controlar as versões do projeto.
 
 A versão escolhida é a **1.0.0**, pois representa a primeira versão estável do projeto,
 contendo os arquivos necessários para a atividade.
+
+## Justificativa da versão 1.0.0
+
+A versão 1.0.0 foi escolhida porque esta é a primeira versão estável do projeto, com os arquivos necessários para realizar a atividade de Versionamento Semântico.
